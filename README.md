@@ -1,5 +1,7 @@
 # Flappy Bird played by Reinforcement Learning Algorithms
 
+## Overview & Disclaimer
+This project was created as an assignment for a lecture at the UZH. A group of 4 students were involved. The project uses two different reinforcement learning algorithms, both of which are applied to the game Flappy Bird. The reinforcement learning algorithms were taken from other existing Repos and merged into one project and the model was re-trained.
 
 ## Algorithms
 - Asynchronous Actor-Critic Agents (A3C)
@@ -15,7 +17,9 @@
 * h5py
 
 ## How to Run?
-- tensorboard --logdir path/to/logs
-to start tensorboard
-- Clone the repository or download it.
-- To test pretrained models run the "run.py" file and select the Algorithm you want to run the Agent with (Actor-Critic or Deep Q Learning).
+```
+git clone https://github.com/jgresc/FlappyBird-GameAgent.git
+cd RLGameAgents
+python run.py
+```
+
