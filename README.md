@@ -31,3 +31,8 @@ Different hyperparameters were tried out, such as various activation functions f
 
 The DQN algorithm was less efficient, and took more time to produce decent results.
 ![sample](https://raw.githubusercontent.com/jgresc/FlappyBird-GameAgent/master/assets/trainDQN.jpg)
+
+
+However, it also turned out that the trained DQN can play FlappyBird better than the A3C on average.
+![sample](https://github.com/jgresc/FlappyBird-GameAgent/blob/master/assets/score_A3C.jpg?raw=true)
+![sample](https://github.com/jgresc/FlappyBird-GameAgent/blob/master/assets/score_DQN.jpg?raw=true)
