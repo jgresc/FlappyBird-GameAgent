@@ -1,6 +1,6 @@
 # Flappy Bird played by Reinforcement Learning Algorithms
 
-<img src="./assets/flappydemo.gif" width="150">
+<img src="https://raw.githubusercontent.com/jgresc/FlappyBird-GameAgent/master/assets/flappyDemo.gif" width="150">
 
 ## Overview & Disclaimer
 This project was created as an assignment for a lecture at the UZH. A group of 4 students were involved. The project uses two different reinforcement learning algorithms, both of which are applied to the game Flappy Bird. The reinforcement learning algorithms were taken from other existing Repos and merged into one project and the model was re-trained.
