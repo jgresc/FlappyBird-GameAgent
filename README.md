@@ -19,9 +19,11 @@ This project was created as an assignment for a lecture at the UZH. A group of 4
 * h5py
 
 ## How to Run?
+![samlpe](https://github.com/jgresc/FlappyBird-GameAgent/blob/master/assets/Start.jpg?raw=true)
 ```
 git clone https://github.com/jgresc/FlappyBird-GameAgent.git
 cd RLGameAgents
 python run.py
 ```
+## Train Results
 
