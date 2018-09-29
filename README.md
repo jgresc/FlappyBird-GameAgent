@@ -15,11 +15,9 @@
 * h5py
 
 ## How to Run?
-- tensorboard --logdir path/to/logs
-to start tensorboard
-- Clone the repository or download it.
-- To test pretrained models run 
 ```
+git clone https://github.com/jgresc/FlappyBird-GameAgent.git
+cd RLGameAgents
 python run.py
 ```
-file and select the Algorithm you want to run the Agent with (Actor-Critic or Deep Q Learning).
+
