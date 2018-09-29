@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/jgresc/FlappyBird-GameAgent/master/assets/flappyDemo.gif" width="150">
 
-## Overview & Disclaimer
+## Overview
 This project was created as an assignment for a lecture at the UZH. A group of 4 students were involved. The project uses two different reinforcement learning algorithms, both of which are applied to the game Flappy Bird. The reinforcement learning algorithms were taken from other existing Repos and merged into one project and the model was re-trained.
 
 ## Algorithms
@@ -38,3 +38,7 @@ However, it also turned out that the trained DQN can play FlappyBird better than
 <img src="https://github.com/jgresc/FlappyBird-GameAgent/blob/master/assets/score_A3C.jpg?raw=true" width="750">
 <img src="https://github.com/jgresc/FlappyBird-GameAgent/blob/master/assets/score_DQN.jpg?raw=true" width="750">
 
+## Disclaimer
+This work is highly based on the following repos:
+ * https://github.com/shalabhsingh/A3C_Keras_FlappyBird
+ * https://github.com/yenchenlin/DeepLearningFlappyBird
