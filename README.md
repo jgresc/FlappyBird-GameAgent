@@ -26,4 +26,8 @@ cd RLGameAgents
 python run.py
 ```
 ## Train Results
+Different hyperparameters were tried out, such as various activation functions for the A3C algorithm.
+![sample](https://github.com/jgresc/FlappyBird-GameAgent/blob/master/assets/trainA3C.jpg?raw=true)
 
+The DQN algorithm was less efficient, and took more time to produce decent results.
+![sample](https://raw.githubusercontent.com/jgresc/FlappyBird-GameAgent/master/assets/trainDQN.jpg)
