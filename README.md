@@ -34,5 +34,5 @@ The DQN algorithm was less efficient, and took more time to produce decent resul
 
 
 However, it also turned out that the trained DQN can play FlappyBird better than the A3C on average.
-![sample](https://github.com/jgresc/FlappyBird-GameAgent/blob/master/assets/score_A3C.jpg?raw=true)
-![sample](https://github.com/jgresc/FlappyBird-GameAgent/blob/master/assets/score_DQN.jpg?raw=true)
+![sample](https://github.com/jgresc/FlappyBird-GameAgent/blob/master/assets/score_A3C.jpg?raw=true | width=400)
+![sample](https://github.com/jgresc/FlappyBird-GameAgent/blob/master/assets/score_DQN.jpg?raw=true | width=400)
